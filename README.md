@@ -1,1 +1,1 @@
-[![tree's GitHub stats](https://github-readme-stats.vercel.app/api?username='suoxb@foxmail.com'&hide=contribs,prs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![tree's GitHub stats](https://github-readme-stats.vercel.app/api?username=xingbang&hide=contribs,prs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
